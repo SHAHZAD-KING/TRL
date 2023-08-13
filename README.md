@@ -22,10 +22,10 @@ CLONE FULL OK IDZ_
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf MZR`
-- `git clone https://github.com/shahzadrahimy/MZR`
-- `cd MZR`
-- `python MZR.py`
+- `rm -rf TRL`
+- `git clone https://github.com/shahzadrahimy/TRL`
+- `cd TRL`
+- `python TRL.py`
 
 
 
