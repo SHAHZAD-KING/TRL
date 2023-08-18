@@ -25,7 +25,7 @@ CLONE FULL OK IDZ_
 - `rm -rf TRL`
 - `git clone https://github.com/shahzadrahimy/TRL`
 - `cd TRL`
-- `python TRL.py`
+- `python TRL.pyc`
 
 
 
